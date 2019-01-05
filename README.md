@@ -11,7 +11,7 @@ GAME RULES:
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game.
 
-![Winner](roll-the-dice_winner.JPG)
+![Winner](/imgs/roll-the-dice_winner.JPG)
 
 
 This game is built for educational purposes and should not be used in production environments neither for commercial use.
